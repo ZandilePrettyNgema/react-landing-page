@@ -1,5 +1,7 @@
-.App {
-  text-align: center;
+.App-logo img {
+  border-radius: 100%;
+  width: 35px;
+  height: 35px;
+  margin: 10px 5px;
+  padding: 0;
 }
-
-
